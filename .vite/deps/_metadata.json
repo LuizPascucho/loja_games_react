@@ -1,8 +1,58 @@
 {
-  "hash": "bcf7982c",
+  "hash": "c968e872",
   "configHash": "be40dbae",
-  "lockfileHash": "e3b0c442",
-  "browserHash": "66b69ea6",
-  "optimized": {},
-  "chunks": {}
+  "lockfileHash": "e6296772",
+  "browserHash": "4db5861b",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "bf546497",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "1e0dd966",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "a1fdf0df",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "07d26c9f",
+      "needsInterop": false
+    },
+    "@phosphor-icons/react": {
+      "src": "../../node_modules/@phosphor-icons/react/dist/index.mjs",
+      "file": "@phosphor-icons_react.js",
+      "fileHash": "47587d56",
+      "needsInterop": false
+    },
+    "react-loader-spinner": {
+      "src": "../../node_modules/react-loader-spinner/dist/esm/index.js",
+      "file": "react-loader-spinner.js",
+      "fileHash": "1e2bf4e5",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "3ab9693c",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-PMYDY72F": {
+      "file": "chunk-PMYDY72F.js"
+    },
+    "chunk-ZS7NZCD4": {
+      "file": "chunk-ZS7NZCD4.js"
+    }
+  }
 }
